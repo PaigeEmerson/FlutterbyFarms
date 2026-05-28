@@ -58,14 +58,19 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.7f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\SpriteBillboard.cs" />
+    <Compile Include="Assets\Scripts\TowerBehavior.cs" />
     <Compile Include="Assets\Scripts\GameManagerScript.cs" />
     <Compile Include="Assets\Scripts\TowerPlacementOnClick.cs" />
     <Compile Include="Assets\Scripts\TowerBuyUI.cs" />
     <Compile Include="Assets\Scripts\BugBehavior.cs" />
     <Compile Include="Assets\Scripts\CloseBuyUI.cs" />
     <Compile Include="Assets\Scripts\GroundManager.cs" />
+    <Compile Include="Assets\Scripts\TextEditor.cs" />
+    <Compile Include="Assets\Scripts\MothBehavior.cs" />
     <Compile Include="Assets\bill.cs" />
-    <Compile Include="Assets\Scripts\OpenCloseWindow.cs" />
+    <Compile Include="Assets\Scripts\BulletBehavior.cs" />
+    <Compile Include="Assets\Scripts\Health.cs" />
     <Compile Include="Assets\Scripts\Billboard.cs" />
     <Compile Include="Assets\Scripts\PlaceTower.cs" />
     <Compile Include="Assets\Scripts\LETTHEREBELIGHT.cs" />

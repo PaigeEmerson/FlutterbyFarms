@@ -15,9 +15,10 @@ public class PlaceTower : MonoBehaviour
         Transform CurrentButtonTransform = selectedObj.transform;
         CurrentButtonTransform.localScale = Vector3.one;
         //CurrentButtonTransform.rotation = new Quaternion(90f, 0f, 0f, 0f);
+        Quaternion rotation = Quaternion.identity;
+        rotation.y = 146f;
 
-
-        Instantiate(tower, CurrentButtonTransform.position, Quaternion.identity);
+        Instantiate(tower, CurrentButtonTransform.position, rotation);
     }
 
 

@@ -9,7 +9,9 @@ public class GameManagerScript : MonoBehaviour
     public bool gameRun;
     public bool isDay;
 
-    public int timePassed;
+    public float timePassed;
+    public int daysPassed;
+    public float dayLength;
 
     
     public static GameManagerScript Instance { get; private set; }
@@ -35,11 +37,13 @@ public class GameManagerScript : MonoBehaviour
     private void Start()
     {
         gameRun = true;
+        isDay = false;
     }
 
     private void IncrementTime()
     {
-        timePassed++;
+        timePassed = timePassed + Time.deltaTime;
+        daysPassed = (int)(timePassed / dayLength) ;
     }
    
     // Update is called once per frame
@@ -48,6 +52,15 @@ public class GameManagerScript : MonoBehaviour
        if (gameRun)
         {
             IncrementTime();
+        }
+
+       if (timePassed % dayLength > (dayLength / 2))
+        {
+            isDay = false;
+        }
+        else
+        {
+            isDay = true;
         }
     }
 

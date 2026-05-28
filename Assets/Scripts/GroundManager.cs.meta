@@ -3,7 +3,9 @@ guid: 2b6a1c78e9d03ca438c1a62d6dbec31c
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - tilledSoil: {fileID: 2100000, guid: 35ee18b3f5e049348a01439549007436, type: 2}
+  - grass: {fileID: 2100000, guid: 1a8e17b4b8855cd4d8ddaf764baa824e, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
