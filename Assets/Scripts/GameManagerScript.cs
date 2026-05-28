@@ -6,6 +6,11 @@ public class GameManagerScript : MonoBehaviour
 {
     [SerializeField] GameObject TowerBuyUI;
 
+    public bool gameRun;
+    public bool isDay;
+
+    public int timePassed;
+
     
     public static GameManagerScript Instance { get; private set; }
 
@@ -27,12 +32,23 @@ public class GameManagerScript : MonoBehaviour
         TowerBuyUI.SetActive(false);
     }
 
+    private void Start()
+    {
+        gameRun = true;
+    }
 
+    private void IncrementTime()
+    {
+        timePassed++;
+    }
    
     // Update is called once per frame
     void Update()
     {
-       
+       if (gameRun)
+        {
+            IncrementTime();
+        }
     }
 
 

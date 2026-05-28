@@ -12,12 +12,17 @@ public class GroundManager : MonoBehaviour
     {
         
     }
-    private void ChangeMaterial(GameObject slice)
+    public void ChangeMaterial(GameObject slice)
     {
         if (slice.GetComponent<Renderer>().material = grass)
         {
-
+            ToTilledSoil(slice);
         }
+        else
+        {
+            ToGrass(slice);
+        }
+       
     }
 
     private void ToTilledSoil(GameObject slice)
@@ -35,6 +40,8 @@ public class GroundManager : MonoBehaviour
 
 
 
+
+
     // Update is called once per frame
     void Update()
     {
@@ -48,8 +55,7 @@ public class GroundManager : MonoBehaviour
                 // This is the object you clicked on
                 GameObject selectedObject = hit.collider.gameObject;
 
-                Debug.Log("Selected: " + selectedObject.name);
-
+                
             }
         }
     }
