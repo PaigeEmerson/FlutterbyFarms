@@ -50,7 +50,6 @@ public class GroundManager : MonoBehaviour
 
                 Debug.Log("Selected: " + selectedObject.name);
 
-                if 
             }
         }
     }
