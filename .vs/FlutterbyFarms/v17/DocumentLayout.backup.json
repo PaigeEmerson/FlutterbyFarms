@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|c:\\users\\user-admin\\desktop\\lol\\projects\\game jam pt2\\flutterbyfarms\\assets\\scripts\\groundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|c:\\users\\user-admin\\desktop\\lol\\projects\\game jam pt2\\flutterbyfarms\\assets\\scripts\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\assets\\scripts\\placetower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placetower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\assets\\scripts\\towerplacementonclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\towerplacementonclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\assets\\scripts\\towerbuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\towerbuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\assets\\scripts\\closebuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\closebuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\assets\\scripts\\openclosewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\openclosewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroundManager.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\GroundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundManager.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\GroundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T04:09:05.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaceTower.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\PlaceTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaceTower.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\PlaceTower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaceTower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T01:31:31.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CloseBuyUI.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\CloseBuyUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CloseBuyUI.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\CloseBuyUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CloseBuyUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T01:21:55.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TowerBuyUI.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\TowerBuyUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerBuyUI.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\TowerBuyUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TowerBuyUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T22:51:32.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManagerScript.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\GameManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManagerScript.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\GameManagerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManagerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T22:39:52.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TowerPlacementOnClick.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\TowerPlacementOnClick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerPlacementOnClick.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\TowerPlacementOnClick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TowerPlacementOnClick.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T21:24:24.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpenCloseWindow.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\OpenCloseWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OpenCloseWindow.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\FlutterbyFarms\\Assets\\Scripts\\OpenCloseWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OpenCloseWindow.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAywKEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T00:07:32.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
