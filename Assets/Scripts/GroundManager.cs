@@ -1,5 +1,7 @@
+using Palmmedia.ReportGenerator.Core.CodeAnalysis;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.PackageManager;
 using UnityEngine;
 
 public class GroundManager : MonoBehaviour
@@ -10,6 +12,7 @@ public class GroundManager : MonoBehaviour
 
     [SerializeField] Health health;
 
+    [SerializeField] GameObject PlantBuyUI;
     // Start is called before the first frame update
     void Start()
     {
@@ -62,13 +65,17 @@ public class GroundManager : MonoBehaviour
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
 
-            if (Physics.Raycast(ray, out hit))
+            if (Physics.Raycast(ray, out hit) && (hit.transform.tag == "Plot" || hit.transform.tag == "TilledPlot" || hit.transform.tag == "DeadPlot"))
             {
                 // This is the object you clicked on
                 GameObject selectedObject = hit.collider.gameObject;
                 if (selectedObject == this.gameObject)
                 {
-                    ChangeMaterial(this.gameObject);
+                    if (!PlantBuyUI.activeInHierarchy)
+                    {
+                        PlantBuyUI.SetActive(true);
+                        //ChangeMaterial(this.gameObject);
+                    }
                 }
                 
             }
@@ -80,4 +87,9 @@ public class GroundManager : MonoBehaviour
         }
     }
 
+    //public void Plant()
+    //{
+    //    currentPlotSelection.tag = "TilledSoil";
+    //    currentPlotSelection.GetComponent<MeshRenderer>().material = tilledSoil;
+    //}
 }

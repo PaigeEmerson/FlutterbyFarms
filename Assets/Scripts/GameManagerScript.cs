@@ -5,6 +5,7 @@ using UnityEngine;
 public class GameManagerScript : MonoBehaviour
 {
     [SerializeField] GameObject TowerBuyUI;
+    [SerializeField] GameObject PlantUI;
 
     public bool gameRun;
     public bool isDay;
@@ -13,10 +14,14 @@ public class GameManagerScript : MonoBehaviour
     public int daysPassed;
     public float dayLength;
 
-    
+    [SerializeField] Material tilledSoil;
+
+
     public static GameManagerScript Instance { get; private set; }
 
     public GameObject selectedButton;
+
+    public GameObject currentPlotSelection;
     
     // Start is called before the first frame update
     private void Awake()
@@ -32,6 +37,7 @@ public class GameManagerScript : MonoBehaviour
         }
 
         TowerBuyUI.SetActive(false);
+        PlantUI.SetActive(false);
     }
 
     private void Start()
@@ -63,6 +69,14 @@ public class GameManagerScript : MonoBehaviour
             isDay = true;
         }
     }
+
+    public void Plant()
+    {
+        currentPlotSelection.tag = "TilledPlot";
+        currentPlotSelection.GetComponent<MeshRenderer>().material = tilledSoil;
+        currentPlotSelection.GetComponent<GroundTile>().planted = true;
+    }
+    
 
 
 }

@@ -3,15 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\closebuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\closebuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\groundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|c:\\users\\user-admin\\desktop\\lol\\projects\\game jam pt2\\please\\flutterbyfarms\\assets\\goodscripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\goodscripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|c:\\users\\user-admin\\desktop\\lol\\projects\\game jam pt2\\please\\flutterbyfarms\\assets\\scripts\\plantuibuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plantuibuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\towerbuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\towerbuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\bulletbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\towerplacementonclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\towerplacementonclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\placetower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placetower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\mothspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mothspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\mothbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mothbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|c:\\users\\user-admin\\desktop\\lol\\projects\\game jam pt2\\please\\flutterbyfarms\\assets\\scripts\\towerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\towerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\towerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,28 +55,12 @@
       "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spritebillboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|c:\\users\\user-admin\\desktop\\lol\\projects\\game jam pt2\\please\\flutterbyfarms\\assets\\scripts\\bulletbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\groundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\closebuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\closebuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\bugbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bugbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\placetower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placetower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lettherebelight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\towerplacementonclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\towerplacementonclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\towerbuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9824138C-4AC9-734B-A970-CE00BC7A97D8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\towerbuyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\assets\\scripts\\openclosewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\openclosewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\OpenCloseWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\OpenCloseWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,102 +82,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BulletBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\BulletBehavior.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletBehavior.cs",
-              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\BulletBehavior.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BulletBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GroundTile.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\GoodScripts\\GroundTile.cs",
+              "RelativeDocumentMoniker": "Assets\\GoodScripts\\GroundTile.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\GoodScripts\\GroundTile.cs",
+              "RelativeToolTip": "Assets\\GoodScripts\\GroundTile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T13:01:03.616Z",
+              "WhenOpened": "2026-05-28T19:02:53.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SpriteBillboard.cs",
-              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\SpriteBillboard.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SpriteBillboard.cs",
-              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\SpriteBillboard.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SpriteBillboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "PlantUIBUY.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\PlantUIBUY.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlantUIBUY.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\PlantUIBUY.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlantUIBUY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T12:46:08.06Z",
+              "WhenOpened": "2026-05-28T18:36:55.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TowerBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TowerBehavior.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerBehavior.cs",
-              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TowerBehavior.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TowerBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BulletBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\BulletBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletBehavior.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\BulletBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T12:26:50.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T13:01:03.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "MothBehavior.cs",
               "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\MothBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MothBehavior.cs",
               "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\MothBehavior.cs",
               "RelativeToolTip": "Assets\\Scripts\\MothBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T10:13:21.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T10:13:21.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CloseBuyUI.cs",
-              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\CloseBuyUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CloseBuyUI.cs",
-              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\CloseBuyUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CloseBuyUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T01:21:55.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "GameManagerScript.cs",
               "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\GameManagerScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManagerScript.cs",
               "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\GameManagerScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManagerScript.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T22:39:52.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "GroundManager.cs",
               "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\GroundManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GroundManager.cs",
               "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\GroundManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GroundManager.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T04:09:05.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "PlaceTower.cs",
               "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\PlaceTower.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlaceTower.cs",
@@ -177,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Health.cs",
               "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
@@ -189,55 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BugBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\BugBehavior.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BugBehavior.cs",
-              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\BugBehavior.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BugBehavior.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T07:24:28.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LETTHEREBELIGHT.cs",
-              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\LETTHEREBELIGHT.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LETTHEREBELIGHT.cs",
-              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\LETTHEREBELIGHT.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LETTHEREBELIGHT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T09:21:35.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TextEditor.cs",
-              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TextEditor.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TextEditor.cs",
-              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TextEditor.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TextEditor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T10:41:48.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TowerBuyUI.cs",
-              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TowerBuyUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerBuyUI.cs",
-              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TowerBuyUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TowerBuyUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T22:51:32.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "TowerPlacementOnClick.cs",
               "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TowerPlacementOnClick.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TowerPlacementOnClick.cs",
@@ -249,7 +198,103 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TowerBuyUI.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TowerBuyUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerBuyUI.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TowerBuyUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TowerBuyUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T22:51:32.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MothSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\MothSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MothSpawn.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\MothSpawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MothSpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T17:24:17.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TowerBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TowerBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerBehavior.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TowerBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TowerBehavior.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T12:26:50.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpriteBillboard.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\SpriteBillboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpriteBillboard.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\SpriteBillboard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpriteBillboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T12:46:08.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CloseBuyUI.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\CloseBuyUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CloseBuyUI.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\CloseBuyUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CloseBuyUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T01:21:55.347Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "BugBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\BugBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BugBehavior.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\BugBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BugBehavior.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:24:28.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LETTHEREBELIGHT.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\LETTHEREBELIGHT.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LETTHEREBELIGHT.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\LETTHEREBELIGHT.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LETTHEREBELIGHT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T09:21:35.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TextEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextEditor.cs",
+              "ToolTip": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\TextEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:41:48.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "OpenCloseWindow.cs",
               "DocumentMoniker": "C:\\Users\\user-admin\\Desktop\\lol\\Projects\\GAME JAM pt2\\Please\\FlutterbyFarms\\Assets\\Scripts\\OpenCloseWindow.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OpenCloseWindow.cs",
