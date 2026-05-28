@@ -9,13 +9,13 @@ public class BugBehavior : MonoBehaviour
     {
         
     }
-    private void OnTriggerEnter(Collision collision)
-    {
-        if (collision != )
-    }
+    // private void OnTriggerEnter(Collision collision)
+    // {
+    //    // if (collision != )
+    // }
     // Update is called once per frame
     void Update()
     {
-        if (Collider.)
+        //if (Collider.)
     }
 }
